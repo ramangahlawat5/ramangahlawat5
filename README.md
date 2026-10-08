@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Raman Gahlawat 👋
 
-<!--
-**ramangahlawat5/ramangahlawat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student at Bennett University and aspiring Software Engineer.
 
-Here are some ideas to get you started:
+I enjoy building full-stack applications, solving DSA problems, and working with modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+C++ • JavaScript • TypeScript • React.js • Node.js • Express.js • MongoDB • PostgreSQL • Git • Docker
+
+### Featured Projects
+- [AI SEO Rank Tracker](#)
+- [FrameFlow](#)
+
+### Connect
+[LinkedIn](#) • [GitHub](https://github.com/ramangahlawat5)
