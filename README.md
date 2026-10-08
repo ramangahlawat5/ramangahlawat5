@@ -1,56 +1,43 @@
-# Hi, I'm Raman Gahlawat 👋
+# 👋 Hey, I'm Raman Gahlawat
 
-### Final-Year Computer Science Student | Aspiring Software Engineer
 
-I enjoy building full-stack applications, solving problems with Data Structures & Algorithms, and exploring modern software development technologies.
+## 🧑‍💻 About Me
 
-Currently focused on:
-- 💻 Full-Stack Development
-- 🧩 Data Structures & Algorithms
-- 🚀 Building real-world projects
-- 🤖 Exploring AI-powered applications
+🎓 Final-year Computer Science student at **Bennett University**
 
----
+💻 Passionate about **Software Engineering & Full-Stack Development**
 
-## 🛠️ Tech Stack
+🧩 Enjoy solving **Data Structures & Algorithms** problems
 
-### Languages
-C++ • JavaScript • TypeScript
+🚀 Interested in building practical and scalable applications
 
-### Frontend
-React.js • HTML5 • CSS3 • Tailwind CSS
-
-### Backend
-Node.js • Express.js • REST APIs
-
-### Databases
-MongoDB • PostgreSQL • MySQL
-
-### Tools & Platforms
-Git • GitHub • Docker • Vercel • Render
+🌱 Continuously learning, building, and improving
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Technologies
 
-### 🔎 AI SEO Rank Tracker
-Full-stack SEO analytics platform with automated keyword tracking, SEO audits, and AI-powered recommendations.
+<p align="center">
 
-**React.js • Node.js • Express.js • MongoDB • Google Gemini API**
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,docker,vscode" />
 
-### 📸 FrameFlow
-Role-based photo-sharing platform for event teams with authentication, photo management, and secure customer galleries.
-
-**React • TypeScript • Express.js • PostgreSQL • Clerk • Appwrite**
+</p>
 
 ---
 
-## 🧩 Problem Solving
+## 🤝 Let's Connect
 
-I regularly practice Data Structures & Algorithms and participate in coding contests on platforms like **LeetCode** and **CodeChef**.
+<p align="center">
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramangahlawat5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gahlawatraman1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 📫 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [LeetCode](YOUR_LEETCODE_URL) • [Email](mailto:YOUR_EMAIL)
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
