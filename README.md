@@ -5,7 +5,7 @@
 
 🎓 Final-year Computer Science student at **Bennett University**
 
-💻 Passionate about **Software Engineering & AI & ML**
+💻 Passionate about **Software Engineering / AI & ML**
 
 🧩 Enjoy solving **Data Structures & Algorithms** problems
 
